@@ -2,6 +2,8 @@
 ===========================================
 
 实时关注微博，b站，抖音某用户动态
+详见文章：
+https://www.blain.top/index.php/2021/02/21/wbdmonitor/
 
 ![image](https://github.com/Bla1n/WBDmonitor/blob/main/image/1.png)
 
