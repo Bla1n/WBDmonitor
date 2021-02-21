@@ -27,3 +27,5 @@ python3 start.py
 
 宝塔或者crontab设置定时任务
 ![image](https://github.com/Bla1n/WBDmonitor/blob/main/image/2.png)
+
+注意事项，执行定时任务请把各py文件内的文件路径替换为绝对路径
