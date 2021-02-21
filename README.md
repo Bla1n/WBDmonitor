@@ -3,7 +3,7 @@
 
 实时关注微博，b站，抖音某用户动态
 
-![](media/3e67277fda9e57d46339186df88589b6.png)
+![image](https://github.com/Bla1n/WBDmonitor/blob/main/image/1.png)
 
 特点
 ====
@@ -12,8 +12,6 @@
 
 使用
 ====
-
-![](media/440d67321657bed7602a1707cfffd5ef.png)
 
 安装方法
 
@@ -26,3 +24,6 @@ pip3 install -r requirement.txt
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 python3 start.py
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+宝塔或者crontab设置定时任务
+![image](https://github.com/Bla1n/WBDmonitor/blob/main/image/2.png)
