@@ -7,8 +7,7 @@
 
 import wbmonitor,bzmonitor,dymonitor,requests
 import urllib.parse
-import smtplib
-import base64
+#import smtplib
 #from email.mime.text import MIMEText
 #from email.utils import formataddr
 #from email.header import Header
