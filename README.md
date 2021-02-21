@@ -7,6 +7,10 @@
 
 # 使用
 安装方法
-`pip3 install -r requirement.txt`
+```
+pip3 install -r requirement.txt
+```
 使用方法
-`python3 start.py`
+```
+python3 start.py
+```
