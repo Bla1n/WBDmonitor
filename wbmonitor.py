@@ -61,13 +61,13 @@ class weiboMonitor():
 						if str(j['mblog']['id']) not in itemIds:
 							with open('wbIds.txt','a') as f:
 								f.write(j['mblog']['id']+'\n')
-								self.echoMsg('Info','发微博啦!!!')
-								self.echoMsg('Info','目前有 %s 条微博'%(len(itemIds)+1))
-								returnDict['created_at'] = j['mblog']['created_at']
-								returnDict['text'] = j['mblog']['text']
-								returnDict['source'] = j['mblog']['source']
-								returnDict['nickName'] = j['mblog']['user']['screen_name']
-								return returnDict
+							self.echoMsg('Info','发微博啦!!!')
+							self.echoMsg('Info','目前有 %s 条微博'%(len(itemIds)+1))
+							returnDict['created_at'] = j['mblog']['created_at']
+							returnDict['text'] = j['mblog']['text']
+							returnDict['source'] = j['mblog']['source']
+							returnDict['nickName'] = j['mblog']['user']['screen_name']
+							return returnDict
 		except Exception as e:
 			self.echoMsg('Error',e)
 			sys.exit()
