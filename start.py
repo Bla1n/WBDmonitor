@@ -5,7 +5,7 @@
 # Desc      : 监控启动模块
 #邮件功能在linux上迷之用不了
 
-import wbmonitor,bzmonitor,dymonitor,hashlib,requests
+import wbmonitor,bzmonitor,dymonitor,requests
 import urllib.parse
 import smtplib
 import base64
