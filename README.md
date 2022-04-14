@@ -1,4 +1,4 @@
-微博，b站，抖音实时监控脚本--W、B、Dmonitor
+微博，b站，抖音实时监控脚本--WBDmonitor
 ===========================================
 
 [![PyPI version](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/)  [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/LICENSE) 
